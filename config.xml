@@ -4,7 +4,7 @@
     <description>
         Test App for WI
     </description>
-    <author "Nhan und Henning" email="henning.wode@tu-dortmund.de">
+    <author href="Nhan und Henning" email="henning.wode@tu-dortmund.de">
         WI Mobile Team
     </author>
     <content src="index.html"/>
